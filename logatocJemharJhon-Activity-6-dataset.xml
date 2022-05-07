@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE NYC_Community_Schools_Survey_2011 [
+<!ELEMENT NYC_Community_Schools_Survey_2011 (report)>
+
+<!ELEMENT report (dbn, school_name, school_type, parent_response_rate, teacher_response_rate, student_response_rate, total_safety_and_respect_score, total_community_score, total_engagement_score, total_academic_expectation_score)>
+
+<!ELEMENT dbn (#PCDATA)>
+<!ELEMENT school_name (#PCDATA)>
+<!ELEMENT school_type (#PCDATA)>
+<!ELEMENT parent_response_rate (#PCDATA)>
+<!ELEMENT teacher_response_rate (#PCDATA)>
+<!ELEMENT student_response_rate (#PCDATA)>
+<!ELEMENT total_safety_and_respect_score (#PCDATA)>
+<!ELEMENT total_community_score (#PCDATA)>
+<!ELEMENT total_engagement_score (#PCDATA)>
+<!ELEMENT total_academic_expectation_score (#PCDATA)>
+
+<!ATTLIST report row CDATA #REQUIRED>
+
+
+]>
+
+<NYC_Community_Schools_Survey_2011>
+
+
+	<report id = "row 1">
+
+		<dbn>01M015</dbn>
+		<school_name>P.S. 015 Roberto Clemente</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>61%</parent_response_rate>
+		<teacher_response_rate>92%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.4</total_safety_and_respect_score>
+		<total_community_score>8.2</total_community_score>
+		<total_engagement_score>8.3</total_engagement_score>
+		<total_academic_expectation_score>8.2</total_academic_expectation_score>
+
+	</report>
+
+<report id = "row 2">
+
+		<dbn>01M019</dbn>
+		<school_name>P.S. 019 Asher Levy</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>92%</parent_response_rate>
+		<teacher_response_rate>94%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.4</total_safety_and_respect_score>
+		<total_community_score>8.0</total_community_score>
+		<total_engagement_score>8.0</total_engagement_score>
+		<total_academic_expectation_score>8.2</total_academic_expectation_score>
+
+	</report>
+
+	<report id = "row 3">
+
+		<dbn>01M020</dbn>
+		<school_name>P.S. 020 Anna Silver</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>88%</parent_response_rate>
+		<teacher_response_rate>73%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.5</total_safety_and_respect_score>
+		<total_community_score>7.8</total_community_score>
+		<total_engagement_score>8.2</total_engagement_score>
+		<total_academic_expectation_score>8.2</total_academic_expectation_score>
+
+	</report>
+
+
+
+
+	<report id = "row 4">
+
+		<dbn>01M034</dbn>
+		<school_name>P.S. 034 Franklin D. Roosevelt</school_name>
+		<school_type>Elementary/Middle School</school_type>
+		<parent_response_rate>39%</parent_response_rate>
+		<teacher_response_rate>58%</teacher_response_rate>
+		<student_response_rate>96%</student_response_rate>
+		<total_safety_and_respect_score>7.3</total_safety_and_respect_score>
+		<total_community_score>6.9</total_community_score>
+		<total_engagement_score>7.3</total_engagement_score>
+		<total_academic_expectation_score>7.7</total_academic_expectation_score>
+
+	</report>
+
+	<report id = "row 5">
+
+		<dbn>01M063</dbn>
+		<school_name>P.S. 063 William Mckinley</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>58%</parent_response_rate>
+		<teacher_response_rate>100%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.5</total_safety_and_respect_score>
+		<total_community_score>7.4</total_community_score>
+		<total_engagement_score>7.6</total_engagement_score>
+		<total_academic_expectation_score>7.8</total_academic_expectation_score>
+
+	</report>
+
+
+	<report id = "row 5">
+
+		<dbn>01M063</dbn>
+		<school_name>P.S. 063 William Mckinley</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>58%</parent_response_rate>
+		<teacher_response_rate>100%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.5</total_safety_and_respect_score>
+		<total_community_score>7.4</total_community_score>
+		<total_engagement_score>7.6</total_engagement_score>
+		<total_academic_expectation_score>7.8</total_academic_expectation_score>
+
+	</report>
+
+
+	<report id = "row 6">
+
+		<dbn>01M064</dbn>
+		<school_name>P.S. 064 Robert Simon</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>50%</parent_response_rate>
+		<teacher_response_rate>94%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>8.6</total_safety_and_respect_score>
+		<total_community_score>7.9</total_community_score>
+		<total_engagement_score>8.1</total_engagement_score>
+		<total_academic_expectation_score>8.2</total_academic_expectation_score>
+
+	</report>
+
+
+
+	<report id = "row 7">
+
+		<dbn>01M110</dbn>
+		<school_name>P.S. 110 Florence Nightingale</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>83%</parent_response_rate>
+		<teacher_response_rate>79%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>7.6</total_safety_and_respect_score>
+		<total_community_score>6.9</total_community_score>
+		<total_engagement_score>7.0</total_engagement_score>
+		<total_academic_expectation_score>7.4</total_academic_expectation_score>
+
+	</report>
+
+	<report id = "row 8">
+
+		<dbn>01M134</dbn>
+		<school_name>P.S. 134 Henrietta Szold</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>49%</parent_response_rate>
+		<teacher_response_rate>55%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>7.7</total_safety_and_respect_score>
+		<total_community_score>7.0</total_community_score>
+		<total_engagement_score>7.5</total_engagement_score>
+		<total_academic_expectation_score>7.4</total_academic_expectation_score>
+
+	</report>
+
+
+
+
+	<report id = "row 9">
+
+		<dbn>01M137</dbn>
+		<school_name>P.S. 137 John L. Bernstein</school_name>
+		<school_type>Elementary School</school_type>
+		<parent_response_rate>66%</parent_response_rate>
+		<teacher_response_rate>82%</teacher_response_rate>
+		<student_response_rate>NA</student_response_rate>
+		<total_safety_and_respect_score>7.3</total_safety_and_respect_score>
+		<total_community_score>6.6</total_community_score>
+		<total_engagement_score>6.7</total_engagement_score>
+		<total_academic_expectation_score>7.1</total_academic_expectation_score>
+
+	</report>
+
+	<report id = "row 10">
+
+		<dbn>01M140</dbn>
+		<school_name>P.S. 140 Nathan Straus</school_name>
+		<school_type>Elementary/Middle School</school_type>
+		<parent_response_rate>58%</parent_response_rate>
+		<teacher_response_rate>94%</teacher_response_rate>
+		<student_response_rate>98%</student_response_rate>
+		<total_safety_and_respect_score>7.5</total_safety_and_respect_score>
+		<total_community_score>6.7</total_community_score>
+		<total_engagement_score>7.0</total_engagement_score>
+		<total_academic_expectation_score>7.3</total_academic_expectation_score>
+
+	</report>
+
+
+
+</NYC_Community_Schools_Survey_2011>
+
+
+
